@@ -1,0 +1,9 @@
+The Paderborn University Bearing Dataset is not included in this project.
+Download it from the official Paderborn University Bearing DataCenter and follow
+its licensing/citation requirements.
+
+Official source:
+https://mb.uni-paderborn.de/en/kat/research/bearing-datacenter
+
+Preprocessing package:
+https://github.com/JvdHoogen/paderborn_bearing
